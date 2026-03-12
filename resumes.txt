@@ -1,0 +1,5 @@
+Python developer skilled in machine learning, data analysis, pandas, and scikit-learn.
+Machine learning engineer experienced in NLP, deep learning, Python, and TensorFlow.
+Data scientist with strong skills in Python, statistics, machine learning, and visualization.
+Java backend developer experienced with Spring Boot, REST APIs, and microservices.
+Frontend developer experienced with React, JavaScript, HTML, and CSS.

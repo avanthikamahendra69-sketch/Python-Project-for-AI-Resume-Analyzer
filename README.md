@@ -1,0 +1,1 @@
+# Python-Project-for-AI-Resume-Analyzer
